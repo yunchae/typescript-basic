@@ -1,0 +1,25 @@
+{
+  "name": "typescript_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "@typescript-eslint/eslint-plugin": "^2.19.2",
+    "@typescript-eslint/parser": "^2.19.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5",
+    "typescript-eslint-parser": "^22.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
